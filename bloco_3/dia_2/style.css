@@ -1,0 +1,31 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-family: sans-serif;
+    width: 65px;
+    color: orange;
+    text-align: center;
+}
+ul {
+    background: peru;
+    font-style: italic;
+    line-height: 40px;
+}
+
+.backcolor{
+    background: red;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+.backcolorred{
+    background: red;
+}
+.backcoloryellow{
+    background: yellow;
+}
+.backcolorgreen{
+    background: green;
+}
