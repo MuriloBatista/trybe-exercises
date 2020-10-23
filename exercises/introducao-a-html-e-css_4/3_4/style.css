@@ -1,0 +1,17 @@
+.header {
+    background-color: #0E0b16;
+    text-align: center;
+    color:white;
+    height: 75px;
+    margin: 15px 15px;    
+}
+.navigator li{
+    background-color: #4717F6;
+    color: white;
+    display: inline-block;
+    width: 150px;
+    height: 35px;
+    margin-left: 50px;
+    text-align: center;
+}
+
